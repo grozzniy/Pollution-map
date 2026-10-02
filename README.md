@@ -7,7 +7,7 @@ How to use this programm:
 3. Deploy API key at Yandex Maps;
 4. Insert your API into HTML file;
 5. Deploy your localhost server in the derictory where you unarhcived zip;
-6. Enter link http://localhost:8000/map.html in browser;
+6. Enter link 'http://localhost:*/map.html' in browser where * - port of your server;
 7. Enjoy!
 
 

@@ -6,10 +6,8 @@ How to use this programm:
 2. Unarchive it in comfortable directory;
 3. Deploy API key at Yandex Maps;
 4. Insert your API into HTML file;
-5. Deploy your localhost server in the derictory where you unarhcived zip;
+5. Deploy your localhost server in the directory where you unarchived zip;
 6. Enter link 'http://localhost:*/map.html' in browser where * - port of your server;
 7. Enjoy!
-
-
 
 © 2026 Shestakov Egor. All rights reserved.
